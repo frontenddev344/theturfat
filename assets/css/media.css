@@ -23,6 +23,7 @@
 @media(max-width:992px){
     .sub-menu {
         position: relative !important;
+        top: 20px;
     }
     .close, .toggle{
         display: block;
@@ -151,7 +152,9 @@
     }
 }
 @media(max-width:575px){
- 
+    .sub-menu {
+        top: 15px;
+    }
     .main-nav {
         width: 100%;
     }
