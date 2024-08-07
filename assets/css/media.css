@@ -21,6 +21,9 @@
 }
 
 @media(max-width:992px){
+    .sub-menu {
+        position: relative !important;
+    }
     .close, .toggle{
         display: block;
         font-size: 25px;
