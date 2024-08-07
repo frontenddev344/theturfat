@@ -76,3 +76,7 @@ $('.moreless-button').click(function() {
 AOS.init({
     duration: 1200,
   })
+
+  $(".navToggle i").click(function(){
+    $(".sub-menu").toggleClass("menuShow");
+  });
