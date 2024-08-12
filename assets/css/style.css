@@ -520,5 +520,55 @@ p.main_hotel  {
     font-weight: 600;
     color: #000;
 }
+.content_added{
+    background-color: whitesmoke;
+}
+.left_side_hotel{
+    position: relative;
 
+}
+.left_side_hotel a {
+    position: absolute;
+    bottom: 0;
+    font-size: 0.875rem;
+    padding: 12px 30px;
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    color: #fff;
+    transition: all 0.3s linear;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 0 auto;
+    display: inline-block;
+    left: 0;
+    right: 0;
+    width: max-content;
+    margin-bottom: 10px;
+}
+.left_side_hotel a:hover{
+    background-color:#fff;;
+    color: #007bff;
+}
+p.address img {
+    width: 20px;
+}
+
+.right_side_hotel ul {
+    padding-left: 25px;
+    list-style: disc;
+    margin-bottom: 15px;
+}
+.right_side_hotel ul li{
+    font-size: 14px;  
+}
+.right_side_hotel p {
+    font-size: 14px;
+}
+a.Visit_more {
+    text-decoration: underline;
+    color: #007bff;
+}
 /* footer section css end */
+.austria_hotels_section {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
