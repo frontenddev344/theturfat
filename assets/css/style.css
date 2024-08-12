@@ -498,4 +498,27 @@ position: relative;
     border-top: 1px solid #eee;
     text-align: center;
 }
+
+.common_button{
+    font-size: 0.875rem;
+    padding: 12px 30px;
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    color: #fff;
+    display: inline-block;
+    margin-top: 10px;
+    transition: all 0.3s linear;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.common_button:hover{
+    background-color: transparent;
+    color: #007bff;
+}
+p.main_hotel  {
+    font-size: 1.875rem;
+    font-weight: 600;
+    color: #000;
+}
+
 /* footer section css end */
