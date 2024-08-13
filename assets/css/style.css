@@ -580,6 +580,7 @@ a.Visit_more {
 }
 .site-banner.austria_casino {
     background-image: url(../images/casino_austria_banner.jpg);
+    height: 50vh;
 }
 .left_side_hotel img {
     height: 360px;
