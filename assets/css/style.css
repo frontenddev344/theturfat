@@ -572,3 +572,9 @@ a.Visit_more {
 .austria_hotels_section {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
+.austria_banner .banner-txt h1 {
+    font-size: 42px;
+}
+.austria_banner .banner-txt {
+    max-width: 100%;
+}
