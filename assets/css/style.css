@@ -578,3 +578,10 @@ a.Visit_more {
 .austria_banner .banner-txt {
     max-width: 100%;
 }
+.site-banner.austria_casino {
+    background-image: url(../images/casino_austria_banner.jpg);
+}
+.left_side_hotel img {
+    height: 360px;
+    object-fit: cover;
+}
